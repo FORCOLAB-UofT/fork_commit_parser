@@ -1,7 +1,9 @@
 # fork commit parser
 
 ## How to Use
+```
 python fork_parser.py
+```
 
 ## Folder Structure
 
