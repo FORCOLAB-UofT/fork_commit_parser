@@ -36,7 +36,7 @@ class requestHandler:
         }
         try:
             self.pyGithub = Github(self.access_tokens[self.cur_token])
-            print("success ini")
+            print("successfully initialized pyGitHub")
         except github.RateLimitExceededException:
             self.switchToken()
 
