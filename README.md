@@ -1,5 +1,8 @@
 # fork commit parser
 
+## How to Use
+python fork_parser.py
+
 ## Folder Structure
 
 ```
@@ -20,8 +23,6 @@ Root
 +-GIT_LOG_PARSER.py - (helpfer functions to process git log commit data)
 |
 +-REQUESTS_HANDLER.py - (helpfer functions to process GitHub API data)
-|
-+-fork_parser.py - (main entry point)
 |
 +-fork_parser.py - (main entry point)
 |
